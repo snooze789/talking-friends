@@ -1,2 +1,2 @@
-# talking-friends-images
-this is basically every "unseen" image of characters like talking ben
+# talking-friends
+this is basically every thing of characters like talking ben
